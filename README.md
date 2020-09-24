@@ -1,0 +1,2 @@
+# ScalaBetter
+ScalaBetter
